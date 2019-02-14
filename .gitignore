@@ -1,0 +1,5 @@
+#Make sure keys don't accidentally get committed as code!
+*.pem
+*.key
+*.csr
+*.srl
